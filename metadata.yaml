@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1847
     wikipedia: http://en.wikipedia.org/wiki/Theodore_Ayrault_Dodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39244#Patroclus-and-PenelopeA-Chat-in-the-Saddle
 gutenberg_issued: '2012-03-24'
 gutenberg_type: Text
 identifiers:
