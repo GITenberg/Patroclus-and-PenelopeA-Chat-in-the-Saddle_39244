@@ -1,0 +1,28 @@
+_repo: Patroclus-and-PenelopeA-Chat-in-the-Saddle_39244
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 39244-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Dodge, Theodore Ayrault
+    birthdate: 1842
+    deathdate: 1909
+    gutenberg_agent_id: '1847'
+    url: http://www.gutenberg.org/2009/agents/1847
+    wikipedia: http://en.wikipedia.org/wiki/Theodore_Ayrault_Dodge
+description: ''
+gutenberg_issued: '2012-03-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '39244'
+  lccn: '12031888'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Horsemanship'
+- !lcc 'SF'
+title: 'Patroclus and Penelope: A Chat in the Saddle'
+url: http://www.gutenberg.org/ebooks/39244
